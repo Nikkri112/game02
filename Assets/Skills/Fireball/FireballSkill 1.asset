@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8cc86c0809d2c47bdf41cb0396ac1e, type: 3}
+  m_Name: FireballSkill 1
+  m_EditorClassIdentifier: 
+  skillName: Fireball
+  icon: {fileID: -6607481912129624618, guid: f373086897d7e4b4c9ff2e4bc3aa5251, type: 3}
+  cooldown: 5
+  manaCost: 0
+  description: Skill description.
+  fireballPrefab: {fileID: 8305266797551173289, guid: 0445fb9cb0ab8e74cb06ff60ee138b58, type: 3}
+  fireballSpeed: 20
+  damage: 20

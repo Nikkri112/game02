@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27d67795fab6a124ea938353f3e89030, type: 3}
+  m_Name: Heal 1
+  m_EditorClassIdentifier: 
+  skillName: Heal
+  icon: {fileID: 7332005540160855754, guid: 27e32666a922a524aaaedc41bb54bd74, type: 3}
+  cooldown: 20
+  manaCost: 0
+  description: Skill description.
+  healAmount: 20
+  healColor: {r: 0, g: 1, b: 0, a: 1}
+  greenTime: 1
+  HealPrefab: {fileID: 2356765657642971405, guid: 2dd5d8e53e1de16428ea0dd47338bd2c, type: 3}
